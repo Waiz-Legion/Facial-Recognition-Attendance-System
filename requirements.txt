@@ -1,0 +1,7 @@
+google_api_python_client==2.81.0
+google_auth_oauthlib==0.4.6
+numpy==1.23.5
+opencv_contrib_python==4.7.0.72
+pandas==1.5.2
+Pillow==9.4.0
+protobuf==4.22.1
